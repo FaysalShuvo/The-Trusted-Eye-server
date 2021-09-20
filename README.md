@@ -1,12 +1,24 @@
-website name: The Trusted Eye
+# The Trusted Eye
 
-liveLink: https://the-trusted-eye.web.app/ dataLink: 
-https://hidden-headland-12235.herokuapp.com
+This i a site where you can find the best detective in the world. you can ask detectives to solve your problem.User can pay via stipe.admin can add services.new admins etc
 
-more about this website?
+## Installation
 
-via this web you can solve your problem. also give feedback to our detectives. also for the admin there is a admin panel where you can add your new service .
 
-i've used to make this:
+```bash
+git clone https://github.com/FaysalShuvo/The-Trusted-Eye-client.git
+cd The-Trusted-Eye-client/
+npm i
+```
 
-react, react-bootstrap, react-router, firebase, node,mongodb
+### Technology used: 
++ react
++ react-bootstrap
++ react-router
++ firebase
++ node
++ mongodb
+
+
+# [Live Demo](https://the-trusted-eye.web.app "The Trusted Eye")
+#### [Client Code](https://github.com/FaysalShuvo/The-Trusted-Eye-client) || [Server Code](https://github.com/FaysalShuvo/The-Trusted-Eye-server)

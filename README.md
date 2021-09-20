@@ -6,9 +6,10 @@ This i a site where you can find the best detective in the world. you can ask de
 
 
 ```bash
-git clone https://github.com/FaysalShuvo/The-Trusted-Eye-client.git
-cd The-Trusted-Eye-client/
+git clone https://github.com/FaysalShuvo/The-Trusted-Eye-server.git
+cd The-Trusted-Eye-server/
 npm i
+node index
 ```
 
 ### Technology used: 
